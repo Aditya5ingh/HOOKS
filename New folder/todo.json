@@ -1,0 +1,44 @@
+{
+  "todo": [
+    {
+      "title": "exercise",
+      "description": "30 min jogging",
+      "id": 1
+    },
+    {
+      "title": "cooking",
+      "description": "Make maggie for everyone",
+      "id": 2
+    },
+    {
+      "title": "study",
+      "description": "60 min study",
+      "id": 3
+    },
+    {
+      "title": "Practice",
+      "description": "solve atleast 20 questions",
+      "id": 4
+    },
+    {
+      "title": "eat",
+      "description": "eat chicken",
+      "id": 5
+    },
+    {
+      "title": "clean",
+      "description": "brooming and cleaning the kitchen",
+      "id": 6
+    },
+    {
+      "title": "code",
+      "description": "Code the json",
+      "id": 7
+    },
+    {
+      "title": "Practice code",
+      "description": "Code the todoapp",
+      "id": 8
+    }
+  ]
+}
